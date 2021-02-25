@@ -13,15 +13,15 @@
         mobile: ["React Native"],
         frontEnd: {
             js: ["React"],
-            css: ["My Own", "Antd (Trying to switch from it)", "Chakra"]
+            css: ["antd (Switch from it)", "Chakra"]
         },
         backEnd: {
             js: ["node", "express"],
             python: ["django"]
         },
         devOps: ["AWS", "Heroku"],
-        databases: ["Mongodb", "Postgresql", "MySQL", "sqlite"],
-        Secondary: ["Firebase", "PHP (Don't like it)", "Vue", "Go", "C#"]
+        databases: ["mongodb", "postgresql", "mysql", "sqlite"],
+        secondary: ["vue", "C#", "go", "firebase", "PHP (🚫)"]
     },
   }
 ```
