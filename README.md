@@ -13,7 +13,7 @@
         mobile: ["React Native"],
         frontEnd: {
             js: ["React"],
-            css: ["antd (Switch from it)", "Chakra"]
+            css: ["antd (Switching from it)", "Chakra"]
         },
         backEnd: {
             js: ["node", "express"],
@@ -21,7 +21,8 @@
         },
         devOps: ["AWS", "Heroku"],
         databases: ["mongodb", "postgresql", "mysql", "sqlite"],
-        secondary: ["vue", "C#", "go", "firebase", "PHP (🚫)"]
+        secondary: ["vue", "C#", "go", "firebase"],
+        knowButAvoid: ["Angular", "ASP.NET Core", "PHP"]
     },
   }
 ```
