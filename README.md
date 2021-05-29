@@ -26,7 +26,3 @@
     },
   }
 ```
-
-___
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=omkobass)](https://github.com/omkobass/github-readme-stats)
