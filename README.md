@@ -13,7 +13,7 @@
         mobile: ["React Native"],
         frontEnd: {
             js: ["React"],
-            css: ["antd (Switching from it)", "Chakra"]
+            css: ["antd (Switching from it)", "Mantine"]
         },
         backEnd: {
             js: ["node", "express"],
