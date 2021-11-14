@@ -10,10 +10,11 @@
 ```javascript
   const omkobass = {
       technologies: {
-        mobile: ["React Native"],
+        mobile: ["React Native", Kotlin, SwiftUI],
         frontEnd: {
             js: ["React"],
-            css: ["antd (Switching from it)", "Mantine"]
+            styling: ["Mantine"],
+            toLearn: ["Svelte"]
         },
         backEnd: {
             js: ["node", "express"],
@@ -23,6 +24,7 @@
         databases: ["mongodb", "postgresql", "mysql", "sqlite"],
         secondary: ["vue", "C#", "go", "firebase"],
         knowButAvoid: ["Angular", "ASP.NET Core", "PHP"]
+        gameEngines: ["Unity"]
     },
   }
 ```
