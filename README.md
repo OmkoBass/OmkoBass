@@ -23,7 +23,7 @@
         devOps: ["AWS", "Heroku"],
         databases: ["mongodb", "postgresql", "mysql", "sqlite"],
         secondary: ["vue", "C#", "go", "firebase"],
-        knowButAvoid: ["Angular", "ASP.NET Core", "PHP"]
+        knowButAvoid: ["Angular", "ASP.NET Core", "PHP"],
         gameEngines: ["Unity"]
     },
   }
