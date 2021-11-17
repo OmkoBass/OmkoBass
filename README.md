@@ -10,7 +10,7 @@
 ```javascript
   const omkobass = {
       technologies: {
-        mobile: ["React Native", Kotlin, SwiftUI],
+        mobile: ["React Native", "Kotlin", "SwiftUI"],
         frontEnd: {
             js: ["React"],
             styling: ["Mantine"],
