@@ -13,7 +13,7 @@
         mobile: ["React Native", "Kotlin", "SwiftUI"],
         frontEnd: {
             js: ["React"],
-            frameworks: ["Next.js],
+            frameworks: ["Next.js"],
             styling: ["Mantine"],
             toLearn: ["Svelte"]
         },
