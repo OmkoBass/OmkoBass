@@ -1,4 +1,3 @@
-### 👋
 ### I'm a never resting extremely ambitious software engineer.
 > A good plan violently executed now is better than a perfect plan executed next week.
 
