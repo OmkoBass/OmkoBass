@@ -1,9 +1,13 @@
 ### 👋
-### I'm a never resting extremely ambitious software engineer
+### I'm a never resting extremely ambitious software engineer.
+> A good plan violently executed now is better than a perfect plan executed next week.
 
 ### NOW
-- 🖥️ Building fullstack software
+- 💯 Winning
 - ✅ Working on FOSS projects
+- ✅ Keeping priorities
+- ✅ Practicing Docker
+- ✅ Mastering Next.js
 
 ### ME
 ```javascript
@@ -20,20 +24,20 @@
       frameworks: ["Next.js"],
       styling: {
         preProcessors: ["Sass"],
-        components: ["Mantine", "Ant"],
+        components: ["Mantine"],
+        useTailwind: true
       },
-      toLearn: ["Svelte"],
     },
     backEnd: {
       node: {
         primary: ["express", "nestjs"],
       },
       python: {
-        primary: ["django"],
+        primary: ["django", "flask"],
       },
     },
-    databases: ["mongodb", "postgresql"],
-    secondary: ["vue"],
+    databases: ["postgresql" || "SQLDatabases"],
+    secondary: ["vue", "svelte"],
     devOps: ["AWS", "Heroku"],
     knowButAvoid: ["Angular", "ASP.NET", "PHP"],
     gameEngines: ["Unity"],
