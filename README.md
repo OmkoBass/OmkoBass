@@ -10,7 +10,7 @@
 
 ### ME
 ```javascript
-  const omkobass = {
+const omkobass = {
   languages: {
     primary: ["javascript", "python"],
     secondary: ["C#"],
@@ -24,7 +24,7 @@
       styling: {
         preProcessors: ["Sass"],
         components: ["Mantine"],
-        useTailwind: true
+        useTailwind: true,
       },
     },
     backEnd: {
