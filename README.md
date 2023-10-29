@@ -44,6 +44,9 @@
 };
 ```
 
-<a href="http://www.github.com/OmkoBass"><img src="https://github-readme-stats.vercel.app/api?username=OmkoBass&show_icons=true&hide=&count_private=true&title_color=F03E3E&text_color=ffffff&icon_color=F03E3E&bg_color=1c1917&hide_border=true&show_icons=true" alt="OmkoBass's GitHub stats" /></a>
-
-<a href="http://www.github.com/OmkoBass"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkoBass&stroke=ffffff&background=1c1917&ring=F03E3E&fire=F03E3E&currStreakNum=ffffff&currStreakLabel=F03E3E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <picture width="100%">
+      <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=omkobass&theme=rose" />
+      <img width="100%" src="https://streak-stats.demolab.com?user=DenverCoder1&theme=rose" />
+  </picture>
+</p>
