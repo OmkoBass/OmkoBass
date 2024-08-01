@@ -1,15 +1,6 @@
 ### I'm a never resting extremely ambitious software engineer.
-> A good plan violently executed now is better than a perfect plan executed next week.
 
-### NOW
-- 💯 Winning
-- ✅ Working on FOSS projects
-- ✅ Keeping priorities
-- ✅ Practicing Docker
-- ✅ Mastering Next.js
-
-### ME
-```javascript
+```typescript
 const omkobass = {
   languages: {
     primary: ["typescript", "python"],
