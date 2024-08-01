@@ -12,7 +12,7 @@
 ```javascript
 const omkobass = {
   languages: {
-    primary: ["javascript", "python"],
+    primary: ["typescript", "python"],
     secondary: ["C#"],
     projectsMadeWith: ["Java", "Go", "Kotlin", "Swift", "PHP", "C", "C++"],
   },
@@ -32,7 +32,7 @@ const omkobass = {
         primary: ["express", "nestjs"],
       },
       python: {
-        primary: ["django", "flask"],
+        primary: ["django", "fastapi"],
       },
     },
     databases: ["postgresql" || "SQLDatabases"],
